@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kianlotfi85
-- 👀 I’m interested in programming and music :)
-- 🌱 I’m currently learning c++ and web designing ...
+- basu CE Student
+- 🌱 I’m currently learning c++
 - 📫 my email is lotfikian85@gmail.com 
 
 <!---
