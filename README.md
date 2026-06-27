@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kianlotfi85
+- 👋 Hi, I’m Kian ( The Outlier )
 - basu CE Student
 - 🌱 I’m currently learning c++ interested in AI and QBITS and mathematics
 
