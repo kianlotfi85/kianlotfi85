@@ -13,7 +13,7 @@
 ---
 
 ## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?user=kianlotfi85&show_icons=true)
+![Kian's GitHub stats](https://github-readme-stats.vercel.app/api?username=kianlotfi85&show_icons=true&theme=tokyonight)
 
 ---
 
