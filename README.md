@@ -13,9 +13,10 @@
 ---
 
 ## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
+![stats](https://github-readme-stats.vercel.app/api?user=kianlotfi85&show_icons=true)
 
 ---
 
 ## 🔥 Streak
-![streak](https://streak-stats.demolab.com?user=USERNAME)
+![GitHub Streak](https://streak-stats.demolab.com?user=kianlotfi85&theme=tokyonight)
+
