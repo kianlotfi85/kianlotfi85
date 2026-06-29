@@ -9,11 +9,6 @@
 - C++ (Learning Process)
 - Git (Learning Process)
   
-
----
-
-## 📊 Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kianlotfi85&layout=compact&theme=tokyonight)
 ---
 
 ## 🔥 Streak
