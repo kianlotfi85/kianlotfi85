@@ -1,9 +1,21 @@
-- 👋 Hi, I’m Kian ( The Outlier )
-- basu CE Student
-- 🌱 I’m currently learning c++ interested in AI and QBITS and mathematics
+# Hi 👋 I'm Kian 
 
+   
+📚 Learning 
 
-<!---
-kianlotfi85/kianlotfi85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 Skills
+- C++ (Learning Process)
+- Git (Learning Process)
+  
+
+---
+
+## 📊 GitHub Stats
+![stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
+
+---
+
+## 🔥 Streak
+![streak](https://streak-stats.demolab.com?user=USERNAME)
